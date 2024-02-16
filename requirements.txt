@@ -5,3 +5,5 @@ ipadic==1.0.0
 mecab==0.996.3
 mecab-python3==1.0.8
 nltk==3.8.1
+whitenoise==6.6.0
+django-environ==0.11.2
