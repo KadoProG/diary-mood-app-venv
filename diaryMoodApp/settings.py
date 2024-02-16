@@ -30,7 +30,7 @@ SECRET_KEY = "django-insecure-=3s)ajrzgch3fr@wxors0pwg2*@p-kq3(+@6lr28zhg8z-3me*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ["kadoblog.pythonanywhere.com", "localhost"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
